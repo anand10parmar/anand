@@ -1,3 +1,12 @@
+## link to demo
+
+[Demo](https://anand10parmar.github.io/anand10parmar.github.io/).
+
+# portfolio
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.2.
+
+
 
 #### Gulp Tasks
 
