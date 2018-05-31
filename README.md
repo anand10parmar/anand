@@ -1,12 +1,3 @@
-# [Portfolio] (https://)
-
-## Preview
-
-[![Portfolio preview](https://)
-
-**[View Live Preview](https://)
-
-
 
 #### Gulp Tasks
 
